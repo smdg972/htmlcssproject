@@ -1,0 +1,33 @@
+HTML + CSS final project:
+
+
+Create an e-commerce website with the following:
+
+1. The website should contain the following sections: 
+
+  A. nav bar that leads to different sections on the page at the top.
+
+  B. Hero section with a video running in the background and text on top.
+
+  C. Products section that each product should lead to a single product page on click.
+
+2. Each product page should contain:
+
+    A. An image of a product
+
+    B. Price and options available
+
+    C. Back button that leads to the home page
+
+    D. (Bonus) On each product page there should be an image and options, when hovering on one of the objects, the image should change accordingly to the option.
+
+3. On every page, The bottom of the website should show a footer with links to social media.
+
+4. The site will be fully responsive.
+
+5. The site must contain at least 4 transitions.
+
+When finished, upload the project to GitHub and Netlify.
+
+Good luck!
+
