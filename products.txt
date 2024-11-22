@@ -1,0 +1,49 @@
+ecommerce project to be fixed;
+
+mobile compatibility
+
+navbar icons clickable areas are too small.
+
+"frame" all of the elements in the site.
+
+
+make navbar sticky
+
+___________________
+
+products:
+
+Nike Sleep With The Swoosh Pillow;
+price: 35$
+options: orange (maybe black too?)
+
+files:
+nikepillow.png
+nikepillowhover.png
+
+
+
+Scarface™ Shower Skateboard:
+price: 475$
+
+files:
+scarfaceboard.png
+scarfaceboardhover.png
+
+
+BMW M4 Competition x Kith;
+price: $127,345
+
+files:
+bmwkith.png
+bmwkithhover.png
+
+
+Burekas:
+price: 1$
+
+files:
+burekas.jpeg
+burekashover.jpeg
+
+תוספת ביצה וזיתים 142.7$ כולל משלוח
