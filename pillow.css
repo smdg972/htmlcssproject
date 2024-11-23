@@ -156,7 +156,7 @@ body {
     width: 800px;
     background-color: white;
     font-size: medium;
-    overflow: hidden;
+    overflow: scroll;
     position: relative;
 }
 .product-info-container {

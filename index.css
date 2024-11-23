@@ -102,7 +102,7 @@ body {
     object-fit: cover;
     border: none;
     z-index: 1;
-    position: ;
+
 
 }
 
@@ -125,6 +125,7 @@ body {
     width: 100%;
     object-fit: scale-down;
 }
+
 
 .text-container {
 
@@ -155,7 +156,7 @@ body {
 
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-
+height: 100vh;
 }
 
 .products-container img {
@@ -300,3 +301,16 @@ body {
     display: block;
     padding: 0 10px;
 }
+
+
+
+@media (max-width: 768px) {
+    .products-container {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+size: 100%;
+    }
+
+}
+
